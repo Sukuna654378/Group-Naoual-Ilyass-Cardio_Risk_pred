@@ -1,4 +1,4 @@
-# When Class Weighting Breaks Calibration: 10-Year CHD Risk Prediction
+# Cardiovascular Risk Prediction
 
 [![Paper Status](https://img.shields.io/badge/Paper-JAIR%20Format-blue)](papers/Cardiovascular_Risk_Prediction.pdf)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-brightgreen)](requirements.txt)
